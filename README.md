@@ -10,6 +10,9 @@ You can start editing the page by modifying `contracts/Contract.sol`.
 
 To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) to learn more.
 
+## What is thirdweb
+thirdweb is a platform that provides a suite of tools for creators, artists, and entrepreneurs to easily build, launch and manage a Web3 project. It enables users to add features such as NFTs, marketplaces, and social tokens to their Web3 projects without writing a line of code.
+
 ## Building the project
 
 After any changes to the contract, run:
